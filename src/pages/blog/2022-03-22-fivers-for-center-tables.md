@@ -19,7 +19,7 @@ tags:
 ---
 <h2>5 Tips for Modern Center Tables like a Pro</h2>
 <h3><strong>Fresh Florals, Candles, and What Not!</strong></h3>
-<p>Pluck a few florals from your garden and put them in a transparent water-holding vase for a prolific beauty to the center tables. Place pairs of scented candles on either side for an optimized visual of your center table.&nbsp;</p>
+<p>Pluck a few florals from your garden and put them in a transparent water-holding vase for a prolific beauty to the <a title="center table" href="https://interwood.pk/living-room-furniture/tables/center-table.html">center tables</a>. Place pairs of scented candles on either side for an optimized visual of your center table.&nbsp;</p>
 <h3><strong>Configure a Triplet</strong></h3>
 <p>For extended center tables, opt three individual decor items for a flawless visual. Get some dummy books (real one's in case you prefer), a faux floral vase, and a decorative object or sculpture for a stunning combo you'll love yourself.&nbsp;</p>
 <h3><strong>Create Vignettes to Examine your Aesthetic Sense</strong></h3>
