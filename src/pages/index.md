@@ -2,10 +2,10 @@
 templateKey: index-page
 title: Office Chairs Price in Pakistan
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Office Chairs in Pakistan
+subheading: office chairs price in Pakistan
 mainpitch:
-  title: Why Kaldi
+  title: Best Office Chairs in Pakistan
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
