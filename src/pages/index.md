@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Office Chairs Price in Pakistan
-image: /img/home-jumbotron.jpg
+image: https://interwood.pk/media/catalog/categorymenu/office_chairs_in_pakistan_1_1.jpg
 heading: Office Chairs in Pakistan
 subheading: office chairs price in Pakistan
 mainpitch:
